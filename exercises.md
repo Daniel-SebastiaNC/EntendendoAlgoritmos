@@ -16,3 +16,9 @@
 # Capítulo 3
 1. Há uma pilha de chamda para funções, onde "sauda()" foi chamada primeiro e dentro da própria é chamada a função "sauda2()", em que quando retornada "sauda()" vai poder ser finalizada.
 2. A memória vai ser alocada infinitamente até acabar e o sistema indicar o erro.
+
+# Capítulo 4
+1. Sum
+2. Count
+3. MaxValue
+4. O caso base quando o item for igual ao guess
