@@ -1,5 +1,5 @@
 //exercises 4.1
-package exercises;
+package exercises.chapter4;
 
 import java.util.ArrayList;
 import java.util.Arrays;
