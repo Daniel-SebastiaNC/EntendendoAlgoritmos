@@ -22,3 +22,7 @@
 2. Count
 3. MaxValue
 4. O caso base quando o item for igual ao guess
+5. O(n)
+6. O(n)
+7. O(1)
+8. O(n²)
