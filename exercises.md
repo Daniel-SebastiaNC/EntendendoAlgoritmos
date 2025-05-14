@@ -26,3 +26,9 @@
 6. O(n)
 7. O(1)
 8. O(n²)
+
+# Capítulo 5
+1. Consistente
+2. Inconsistente
+3. Inconsistente
+4. Consistente
