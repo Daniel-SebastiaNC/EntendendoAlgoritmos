@@ -32,3 +32,6 @@
 2. Inconsistente
 3. Inconsistente
 4. Consistente
+5. c e d (minha escolha: c)
+6. b e d (minha escolha: b)
+7. b, c e d (minha escolha: d)
