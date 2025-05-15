@@ -35,3 +35,7 @@
 5. c e d (minha escolha: c)
 6. b e d (minha escolha: b)
 7. b, c e d (minha escolha: d)
+
+# Capítulo 6
+1. 2 etapas(1- cima; 2 - direita)
+2. 2 etapas(1- cima; 2 - direita)
