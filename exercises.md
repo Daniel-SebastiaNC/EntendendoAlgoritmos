@@ -39,3 +39,6 @@
 # Capítulo 6
 1. 2 etapas(1- cima; 2 - direita)
 2. 2 etapas(1- cima; 2 - direita)
+3. a - inválido; b - válido; c - inválido
+4. 1- Acordar; 2- Praticar Exercício; 3- Tomar banho; 4- Trocar de Roupa; 5- Escovar os Dentes; 6- Tomar Café da Manhã; 7- Embrulhar o Lanche.
+5. a e c são árvores 
